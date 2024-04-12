@@ -36,3 +36,7 @@ To view the Netflix Clone project, simply open the `index.html` file in a web br
 ## Contributing
 
 Contributions to the project are welcome! If you find any issues or would like to enhance the project, feel free to fork the repository and submit a pull request with your changes.
+
+## Acknowledgments
+
+This project was created with the guidance and tutorials from [CodeWithharry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) YouTube channel.
